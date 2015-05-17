@@ -19,11 +19,13 @@ npm install
 
 To Run
 =======================
+Development: including hot reloading
 ```
-// Development: including hot reloading
 npm start
+```
 
-// Production: generate assets to `/build` for deployment
+Production: generate assets to `/build` for deployment
+```
 npm build
 ```
 

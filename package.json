@@ -1,7 +1,7 @@
 {
   "name": "webpack-react-quickstart",
   "version": "1.0.0",
-  "description": "For simple projects using React, React-Router, Webpack & ES6",
+  "description": "For simple projects using Webpack, React, React-Router, ES6 & Bootstrap",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot --progress --colors",

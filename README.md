@@ -2,13 +2,17 @@ To Setup
 =======================
 ```
 git clone git@github.com:jefffriesen/webpack-react-quickstart.git mynewapp
+```
 
-// Change remote git url to what you will be using: [set-url doc](https://help.github.com/articles/changing-a-remote-s-url/)
+Change remote git url to what you will be using: [set-url doc](https://help.github.com/articles/changing-a-remote-s-url/)
+```
 git remote set-url origin git@github.com:USERNAME/YOURREPO.git
 
-// Confirm new remote url
-git remote -v
+git remote -v  // Confirm new remote url
+```
 
+Instal modules
+```
 npm install
 ```
 

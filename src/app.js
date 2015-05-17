@@ -8,7 +8,7 @@ import '../assets/styles/index.less'
 
 
 // Components
-import LoginHandler from './components/login.js';
+import Page1 from './components/page1.js';
 import Nav from './components/nav.js';
 
 
@@ -25,7 +25,7 @@ let App = React.createClass({
 
 let routes = (
   <Route name="app" path="/" handler={App}>
-    <Route name="login" path="/login" handler={LoginHandler}/>
+    <Route name="page1" path="/page1" handler={Page1}/>
   </Route>
 );
 

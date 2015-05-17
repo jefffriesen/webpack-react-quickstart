@@ -26,7 +26,7 @@ npm start
 
 Production: generate assets to `/build` for deployment
 ```
-npm build
+npm run build
 ```
 
 Features

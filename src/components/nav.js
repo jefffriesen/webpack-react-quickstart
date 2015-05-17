@@ -6,7 +6,7 @@ let Nav = React.createClass({
     return (
       <div className="nav nav-pills nav-stacked">
         <li><Link to="app">Home</Link></li>
-        <li><Link to="login">Login</Link></li>
+        <li><Link to="page1">Page 1</Link></li>
       </div>
     )
   }

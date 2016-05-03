@@ -29,17 +29,22 @@ Production: generate assets to `/build` for deployment
 npm run build
 ```
 
+Then go to `http://localhost:8080/`
+
+
 Features
 =======================
 * Webpack build and serve with hot reloading
 
-* React & ES6
+* React 15
+
+* ES6
 
 * React Router with HTML5 history API (Router.HistoryLocation) for clean URLs
 
 * CSS & Less loaders
 
-* Bootstrap css & fonts
+* Bootstrap CSS & fonts
 
 
 TODO
